@@ -3,7 +3,7 @@
   <title>Pagina2</title> 
  </heat>
    <body>
-     <h1>Pagina principal</h1>
-     <a href="pagina2.html">Ir a pagina1</a>
+     <h1>Pagina secundaria</h1>
+     <a href="index.html">Ir a pagina1</a>
    </body>
  </html>
