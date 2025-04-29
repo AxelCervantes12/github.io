@@ -1,7 +1,7 @@
 <html>
  <heat>
   <title>Pagina2</title> 
- </heat>
+ </head>
    <body>
      <h1>Pagina secundaria</h1>
      <a href="index.html">Ir a pagina1</a>
